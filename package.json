@@ -1,0 +1,16 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "An APP from tutorial implemented based on RESTFUL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Rizky Muhammad Faris Prakoso",
+  "license": "ISC"
+}
