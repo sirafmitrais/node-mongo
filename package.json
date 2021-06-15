@@ -12,5 +12,8 @@
     "json"
   ],
   "author": "Rizky Muhammad Faris Prakoso",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
